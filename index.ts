@@ -1,2 +1,4 @@
 let message="HI";
-console.log(message);
+
+let userName="Ateeb";
+console.log(message  + userName);
